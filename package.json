@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/1231232222/lunzi-1/issues"
   },
-  "homepage": "https://github.com/1231232222/lunzi-1#readme"
+  "homepage": "https://github.com/1231232222/lunzi-1#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }

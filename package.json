@@ -21,6 +21,17 @@
   },
   "homepage": "https://github.com/1231232222/lunzi-1#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.6.0",
+    "parcel-bundler": "^1.12.3",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
